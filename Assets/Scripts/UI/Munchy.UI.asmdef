@@ -1,0 +1,23 @@
+{
+    "name": "Munchy.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:80ecb87cae9c44d19824e70ea7229748",
+        "GUID:397f242f1dea9ad47bca007804481f7a",
+        "GUID:7ac4416375065dd4f89b9a0ce0ef5b9b",
+        "GUID:c6193f419acec6841a55a9fe347983bc",
+        "GUID:77468a8b7fb40b949a05d4a6074d744e",
+        "GUID:98924bfe516b5194e98bceec8b601d87"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

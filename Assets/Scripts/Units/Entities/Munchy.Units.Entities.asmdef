@@ -1,0 +1,20 @@
+{
+    "name": "Munchy.Units.Entities",
+    "rootNamespace": "",
+    "references": [
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:397f242f1dea9ad47bca007804481f7a",
+        "GUID:7ac4416375065dd4f89b9a0ce0ef5b9b",
+        "GUID:f1a4454c996dbdb438b3dda178b9b1d5",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

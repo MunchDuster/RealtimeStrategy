@@ -1,0 +1,23 @@
+{
+    "name": "Munchy.Units.Buildings",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ef84c1ff3772d9d4aaa1a103ce6f74dc",
+        "GUID:7ac4416375065dd4f89b9a0ce0ef5b9b",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:98924bfe516b5194e98bceec8b601d87",
+        "GUID:397f242f1dea9ad47bca007804481f7a",
+        "GUID:77468a8b7fb40b949a05d4a6074d744e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

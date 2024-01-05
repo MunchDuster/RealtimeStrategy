@@ -1,0 +1,20 @@
+{
+    "name": "Munchy.Units",
+    "rootNamespace": "",
+    "references": [
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:98924bfe516b5194e98bceec8b601d87",
+        "GUID:f1a4454c996dbdb438b3dda178b9b1d5",
+        "GUID:397f242f1dea9ad47bca007804481f7a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
